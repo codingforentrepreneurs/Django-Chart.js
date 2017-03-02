@@ -4,5 +4,5 @@
 Learn how to integrate Charts.js with Django
 
 ### Lectures
-[Base project setup](../../tree/4acc45c9fcebedebeae3675cc5930ce98ad9027f)
+[Base project setup](../../tree/9deb1d489250aca706b9939ae0bad331d0709982)
 
